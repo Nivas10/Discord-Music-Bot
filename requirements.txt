@@ -1,0 +1,12 @@
+discord.py
+ffmpeg-python
+pydub
+requests
+asyncio
+sqlite3
+dotenv
+pytest
+coverage
+PyNaCl
+Flask
+Jinja2
