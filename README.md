@@ -7,12 +7,7 @@
   <img src="https://img.shields.io/badge/Language-Python-blue" alt="">
   <img src="https://img.shields.io/badge/Framework-Discord.py-red" alt="">
   <img src="https://img.shields.io/badge/Audio-FFmpeg-blue" alt="">
-  <img src="https://img.shields.io/badge/Database-SQLite-black" alt="">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/badge/license-GNU_AGPLv3?style=flat-square&color=5D6D7E" alt="GitHub license" />
-  <img src="https://img.shields.io/github/last-commit/spectra-ai-codegen/Discord-Music-Bot?style=flat-square&color=5D6D7E" alt="git-last-commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/spectra-ai-codegen/Discord-Music-Bot?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
+  <img src="https://img.shields.io/badge/Database-SQLite-green" alt="">
   <img src="https://img.shields.io/github/languages/top/spectra-ai-codegen/Discord-Music-Bot?style=flat-square&color=5D6D7E" alt="GitHub top language" />
 </p>
 
@@ -24,7 +19,6 @@
 - [🏗️ Usage](#usage)
 - [🌐 Hosting](#hosting)
 - [📄 License](#license)
-- [👏 Authors and Acknowledgments](#authors-and-acknowledgments)
 
 ## 📍 Overview
 This repository contains a project called "Discord-Music-Bot" which is a Python-based Discord bot designed to enhance music experiences within Discord servers. The bot utilizes the Discord.py library and FFmpeg for seamless music playback, queue management, and a range of interactive features. 
@@ -99,20 +93,3 @@ Discord-Music-Bot
   
   ## 📄 License
   This project is licensed under the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/).
-  
-  ## 👥 Authors and Acknowledgments
-  - **Author Name** - [Spectra.codes](https://spectra.codes)
-  - **Creator Name** - [DRIX10](https://github.com/Drix10)
-
-  <p align="center">
-    <h1 align="center">🌐 Spectra.Codes</h1>
-  </p>
-  <p align="center">
-    <em>Why only generate Code? When you can generate the whole Repository!</em>
-  </p>
-  <p align="center">
-	<img src="https://img.shields.io/badge/Developer-Drix10-red" alt="">
-	<img src="https://img.shields.io/badge/Website-Spectra.codes-blue" alt="">
-	<img src="https://img.shields.io/badge/Backed_by-Google_&_Microsoft_for_Startups-red" alt="">
-	<img src="https://img.shields.io/badge/Finalist-Backdrop_Build_v4-black" alt="">
-  <p>
