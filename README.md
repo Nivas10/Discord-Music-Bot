@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
   <br>Discord-Music-Bot
 </h1>
 <h3 align="center">◦ A Discord bot built with Python, Discord.py and FFmpeg for enhanced music experiences within Discord servers.</h3>
